@@ -1,0 +1,2 @@
+# sead
+Estudos de Django
